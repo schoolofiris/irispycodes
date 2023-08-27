@@ -1,0 +1,4 @@
+show cdp neighbors
+show ospf neighbor
+show ip interface brief
+show ip route
